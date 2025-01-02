@@ -29,7 +29,7 @@ print('Sum of digits are: ', sum)
 # 3. Reversing a number
 # Using the modular we can get the last digit of a number, suppose number n = 12359 then r = n % 10 = 9, 
 # now 9 should become a 95 how it can happen so 95 = 9 * 10 + 5, now this 95 should become 953, so for that 953 = 95 * 10 + 3, now this 953 should become 9532, so for that 9532 = 953 * 10 + 2
-# <img width="1062" alt="image" src="https://github.com/user-attachments/assets/a9c7577b-0ced-4f52-916e-17a486d2b2bf" />
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/a9c7577b-0ced-4f52-916e-17a486d2b2bf" />
 
 n = int(input('Enter a Number'))
 
@@ -46,7 +46,7 @@ print('Reverse of the number is : ', rev)
 # If number n = 1221 and reverse of number rev = 1221, reverse number is same as original number then number is palindrome , ex. 25152
 # for that we need to check if number == reverse then number is palindrome, else number is not palindrome 
 # but on the above script actual number n becomes zero at the end of the loop, so always you get the false only
-# <img width="1059" alt="image" src="https://github.com/user-attachments/assets/8308843c-550a-4f0c-a5e0-caa424d6b2a8" />
+<img width="1059" alt="image" src="https://github.com/user-attachments/assets/8308843c-550a-4f0c-a5e0-caa424d6b2a8" />
 
 n = int(input('Enter a Number'))
 m = n
