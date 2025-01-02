@@ -118,6 +118,22 @@ print(brev)
 <img width="1011" alt="image" src="https://github.com/user-attachments/assets/5e90d19b-98ad-429d-979d-665515cf0530" />
 
 - binary of 10 should be 1010 but when we run the above code it shows result 101
-- why because our number has given the first binary number as zero that is not included and we got the result as zero that is skipped
-- it means for any even number its shows initially zero
-- like for example 10 = 0101(from top to bottom), initial zero does not have any value so it became 101
+- why because our number has given the first binary number as zero which is not included and we got the result as zero that is skipped
+- it means for any even number it shows initially zero
+- like for example 10 = 0101(from top to bottom), the initial zero does not have any value so it became 101
+
+## How we can solve this
+- now initially take binary as a string
+- - we have value n = 10 so r = 10 % 2 = reminder 0
+- n = 10 // 2 = 5
+- binary = (initially binary is 0) 0 * 10 + 0 = 0
+-  now the n = 5, so new value of r = 5 % 2 = reminder 1
+- n = 5 // 2 = 2
+- binary = (earlier binary value) 0 * 10 + (new value of reminder) 1 = 0 * 10 + 1 = 1
+- here binary as string left-hand side and `becomes 10`
+
+  
+- now the n = 2, so new value of r = 2 % 2 = reminder 0
+- n = 2 // 2 = 1
+- binary = (earlier binary value) 1 * 10 + (new value of reminder) 0 = 1 * 10 + 0 = 10
+- here binary as string left-hand side and `becomes 010`
