@@ -61,7 +61,7 @@ print('max number is :', max)
 - suppose we want to convert the number 11 to binary
   <img width="1060" alt="image" src="https://github.com/user-attachments/assets/33aa854b-3759-400b-80b5-88630f27d342" />
 - now we get the binary number 11 which is 1011
-  r = n % 2 and n // 2
+- r = n % 2 and n // 2
   1
   1
   0
