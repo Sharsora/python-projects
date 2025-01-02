@@ -115,4 +115,4 @@ print(brev)
 - n = 5 // 2 = 2
 - binary = (earlier binary value) 0 * 10 + (new value of reminder) 1 = 0 * 10 + 1 = 1
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/90ac4fe1-4e63-4692-bbc9-bee529afd7ce" />
+<img width="1011" alt="image" src="https://github.com/user-attachments/assets/5e90d19b-98ad-429d-979d-665515cf0530" />
