@@ -42,10 +42,11 @@ while n > 0:
 
 print('Reverse of the number is : ', rev)
 
-# 4. check if number is Palindrome
-# If number n = 1221 and reverse of number rev = 1221, reverse number is same as original number then number is palindrome , ex. 25152
-# for that we need to check if number == reverse then number is palindrome, else number is not palindrome 
-# but on the above script actual number n becomes zero at the end of the loop, so always you get the false only
+# 4. Check if the number is Palindrome
+# If number n = 1221 and reverse of number rev = 1221, the reverse number is the same as the original number then the number is palindrome, ex. 25152
+# For that we need to check if number == reverse then the number is palindrome, else number is not palindrome 
+# but on the above script actual number n becomes zero at the end of the loop, so you always get the false only
+
 <img width="1059" alt="image" src="https://github.com/user-attachments/assets/8308843c-550a-4f0c-a5e0-caa424d6b2a8" />
 
 n = int(input('Enter a Number'))
