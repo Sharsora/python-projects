@@ -103,3 +103,13 @@ while bin > 0:
 
 print(brev)
 ```
+
+# Here we get the issue for the code
+- this code runs perfectly for odd numbers but when I Enter even numbers like 10 or 12 output does not show correct result
+- now suppose we have number n = 10
+- r = n % 2 and n = n // 2 and binary = binary * 10 + r
+- we have value n = 10 so r = 10 % 2 = reminder 0
+- n = 10 // 2 = 5
+- binary = (initially binary is 0) 0 * 10 + 0 = 0
+- 
+  
