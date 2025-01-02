@@ -137,3 +137,21 @@ print(brev)
 - n = 2 // 2 = 1
 - binary = (earlier binary value) 1 * 10 + (new value of reminder) 0 = 1 * 10 + 0 = 10
 - here binary as string left-hand side and `becomes 010`
+- reminder should concatenate to the left-hand side
+- binary is not number binary is string = str(reminder(reminder is integer value so add str)) +  binary
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/f8382046-28ca-484c-9b40-34210d645fba" />
+
+```sh
+n = int(input('Enter a number'))
+
+bin = ""
+
+while n > 0:
+    r = n % 2
+    n = n // 2
+    bin = str(r) + bin
+
+print(bin)
+
+```
