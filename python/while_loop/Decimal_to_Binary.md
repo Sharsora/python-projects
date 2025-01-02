@@ -105,11 +105,14 @@ print(brev)
 ```
 
 # Here we get the issue for the code
-- this code runs perfectly for odd numbers but when I Enter even numbers like 10 or 12 output does not show correct result
+- this code runs perfectly for odd numbers but when I Enter even numbers like 10 or 12 output does not show the correct result
 - now suppose we have number n = 10
 - r = n % 2 and n = n // 2 and binary = binary * 10 + r
 - we have value n = 10 so r = 10 % 2 = reminder 0
 - n = 10 // 2 = 5
 - binary = (initially binary is 0) 0 * 10 + 0 = 0
-- 
-  
+- now the n = 5, so new value of r = 5 % 2 = reminder 1
+- n = 5 // 2 = 2
+- binary = (earlier binary value) 0 * 10 + (new value of reminder) 1 = 0 * 10 + 1 = 1
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/90ac4fe1-4e63-4692-bbc9-bee529afd7ce" />
