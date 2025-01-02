@@ -70,6 +70,16 @@ print('max number is :', max)
 ```
 - binary = binary * 10 + r
 - 1101
+```sh
+n = int(input('Enter a number'))
+
+bin = 0
+
+while n > 0:
+    r = n % 2
+    n = n // 2
+    bin = bin * 10 + r
+```
 
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/a3a6d3cb-fb74-49dc-b760-46aaafb48083" />
 
