@@ -60,6 +60,7 @@ print('max number is :', max)
 ## 4. Conver a Decimal number to Binary 
 - suppose we want to convert the number 11 to binary
   <img width="1060" alt="image" src="https://github.com/user-attachments/assets/33aa854b-3759-400b-80b5-88630f27d342" />
-- now we get the
+- now we get the binary number of 11 which is 1011
+  r = n % 2 and n // 2
 
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/a3a6d3cb-fb74-49dc-b760-46aaafb48083" />
