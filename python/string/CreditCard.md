@@ -12,3 +12,4 @@ dispno = four * 3 + lastDigits
 
 print(dispno)
 ```
+<img width="1047" alt="image" src="https://github.com/user-attachments/assets/d4de2be7-a9a3-4540-af9a-7b7d16bb0057" />
