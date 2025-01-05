@@ -1,9 +1,11 @@
 <img width="1064" alt="image" src="https://github.com/user-attachments/assets/40a4a5ec-dd17-4f7b-84a2-24579d7c34f1" />
 
 <img width="983" alt="image" src="https://github.com/user-attachments/assets/ae864e7a-f9b9-49b5-836e-e90bf51fd9c2" />
-now convert it into an integer
+
+- now convert it into an integer
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/27a0b799-2ea6-46a3-8a5b-f5af7566f600" />
-now use the global function sum
+
+- now use the global function sum
 <img width="1045" alt="image" src="https://github.com/user-attachments/assets/d6fa7646-9eea-41f7-8ba9-a2ba1c67c0c9" />
 
 
