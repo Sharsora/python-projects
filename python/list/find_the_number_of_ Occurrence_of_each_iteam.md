@@ -28,3 +28,9 @@ for x in L1:
 
 print(result)
 ```
+output
+```sh
+sharsora@SHARSORA-M-G1WP python-practise % python3 occurrences.py 
+['A', 2, 'B', 3, 'C', 1, 'D', 2, 'E', 2, 'F', 1]
+sharsora@SHARSORA-M-G1WP python-practise %
+```
