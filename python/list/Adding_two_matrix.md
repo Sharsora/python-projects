@@ -1,3 +1,6 @@
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/bf120991-4fc4-437a-abd3-f0531950bc59" />
+
+
 ```sh
 
 L1 = [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4]]
