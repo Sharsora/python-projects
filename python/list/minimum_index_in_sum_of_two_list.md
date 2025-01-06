@@ -1,1 +1,21 @@
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/02228ecb-0372-4767-b2c2-548954430604" />
+
+
+```sh
+L1 = ['pizza', 'nuggets', 'hotdog', 'noodles', 'pasta', 'burger']
+
+L2 = ['burger', 'hotdog', 'noodles', 'pasta', 'nuggets', 'pizza']
+
+index1 = 10
+index2 = 10
+
+for i in range(len(L1)):
+    indx = L2.index(L1[i])
+
+    if i + indx < index1 + index2:
+       index1 = i
+       index2 = indx
+
+print(L1[index1],index1+index2)
+```
 
