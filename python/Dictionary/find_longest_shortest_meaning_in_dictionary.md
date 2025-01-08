@@ -20,3 +20,4 @@ min_index = lens.index(min_len)
 print('Max',keys[max_index],values[max_index])
 print('Min', keys[min_index],values[min_index])
 ```
+<img width="1043" alt="image" src="https://github.com/user-attachments/assets/62d023d6-7d61-48bd-ad25-234c0d858c3c" />
