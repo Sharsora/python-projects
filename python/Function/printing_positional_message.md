@@ -1,3 +1,4 @@
+- before / anything will be positional argument only.
 ```sh
 
 def message(name, prof,/):
