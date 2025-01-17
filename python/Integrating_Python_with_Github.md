@@ -20,7 +20,7 @@ pip install PyGithub
 from github import Github
 
 # provide the token
-token = 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
+token = ghp_xxxxxxxoxxxxxxxxxxxxxxxx
 g = Github(token)
 
 # Get the authenticated user
