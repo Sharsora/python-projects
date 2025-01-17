@@ -1,4 +1,4 @@
-### Integrating Python iwth Github
+### Integrating Python with Github
 - Install PyGitHub
 - Generate a personal access token
 - Use PyGitHub to connect
